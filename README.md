@@ -16,7 +16,6 @@
 
 ## 🛠️ Tech Stack
 ![Owais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdowaisnajmuddin&show_icons=true&theme=tokyonight)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
