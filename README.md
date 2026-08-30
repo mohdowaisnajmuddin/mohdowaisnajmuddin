@@ -15,7 +15,7 @@
 > 🔗 [auratrace.netlify.app](https://auratrace.netlify.app)
 
 ## 🛠️ Tech Stack
-![Owais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdowaisnajmuddin&show_icons=true&theme=tokyonight&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=mohdowaisnajmuddin&color=blue&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
