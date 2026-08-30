@@ -16,6 +16,7 @@
 
 ## 🛠️ Tech Stack
 ![Profile Views](https://komarev.com/ghpvc/?username=mohdowaisnajmuddin&color=blue&style=flat)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
