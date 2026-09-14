@@ -1,49 +1,22 @@
-# Hi, I'm Mohammed Owais Naj Muddin 👋
+Hi, I'm Mohammed Owais Naj Muddin
 
-🎓 B.Tech CSE (AI & ML) | Pallavi Engineering College, Hyderabad
-🤖 AI/ML Engineer | Web Developer | Generative AI Specialist
-📍 Hyderabad, India
+AI/ML • Full-Stack • Frontend • Backend — B.Tech CSE (AI & Machine Learning) student building and shipping AI-powered and full-stack web products.
 
-## 🚀 Live Projects
+I build real-world applications spanning device monitoring, real-time alerting, AI agent design, and financial decision tools — using Python, JavaScript, React, Next.js, Firebase, and machine learning. I try to keep every claim about a project scoped to what's actually implemented and verified, not what sounds impressive.
 
-### 🏗️ BuildCalc — Construction Cost Estimator
-> Helps contractors and homeowners estimate construction costs across 4 Indian cities with GST, material rates, labour costs and payment schedules.
-> 🔗 [buildcalc-india.netlify.app](https://buildcalc-india.netlify.app)
+Projects
+AuraTrace — Device recovery and anti-theft monitoring with scoped SIM-change detection, a transparent logistic-regression risk-scoring engine, real-time Firestore-backed dashboard, and a DPDP Act 2023–compliant privacy policy.
+BuildCalc — Construction cost estimator for Indian cities, calibrated against official government Schedule of Rates (TSSOR, KPWD, MAHA PWD, CPWD) with real material and soil-strata cost modeling.
+Buy or Wait? — AI agent that evaluates purchase affordability against real cash flow, generating a 90-day balance simulation and a safe, structured payment plan.
+Universal Code Debugger — AI-powered debugging assistant supporting 9 languages, with line-level error attribution and plain-language fix explanations.
+Skills
 
-### 📡 AuraTrace — Device Recovery System
-> Anti-theft platform with SIM change detection, BLE beacon network, and police-ready PDF reports via email and SMS.
-> 🔗 [auratrace.netlify.app](https://auratrace.netlify.app)
+AI/ML: Python, Scikit-learn, TensorFlow, NLP, LLMs, RAG, Prompt Engineering, AI Agents, Supervised & Unsupervised Learning Frontend: HTML, CSS, JavaScript, React.js, Next.js, Responsive Web Design Backend: Firebase, Twilio, SendGrid, API Integration, Real-Time Applications Databases / Programming: SQL, Firebase, Python, JavaScript, Java Tools: Netlify, Vercel, Figma, Git/GitHub
 
-## 🛠️ Tech Stack
-![Profile Views](https://komarev.com/ghpvc/?username=mohdowaisnajmuddin&color=blue&style=flat)
+Certifications
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+AI Foundations & Agents and Workflows (OpenAI Academy) · Introduction to Modern AI (Cisco Networking Academy) · Machine Learning with AI — Top Performer (Internshala) · Python & Intermediate Machine Learning (Kaggle)
 
-## 🏆 Certifications
-- 🔵 Cisco Networking Academy — Introduction to Modern AI (2026)
-- 🟢 Internshala — Machine Learning with AI — **94% Top Performer** (2026)
-- 🟡 Kaggle — Python & Intermediate Machine Learning (2026)
+Contact
 
-## 📬 Contact
-- 📧 mohdowaisnajmuddin@gmail.com
-- 📞 +91 93902 95680
-
-<!--
-**mohdowaisnajmuddin/mohdowaisnajmuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 mohdowaisnajmuddin@gmail.com 📍 Hyderabad, Telangana
