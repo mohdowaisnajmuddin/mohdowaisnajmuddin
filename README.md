@@ -4,6 +4,7 @@
 
 I build real-world applications spanning device monitoring, real-time alerting, AI agent design, and financial decision tools — using Python, JavaScript, React, Next.js, Firebase, and machine learning. I try to keep every claim about a project scoped to what's actually implemented and verified, not what sounds impressive. 🎯
 
+
 🚀 Projects
 
 📱 AuraTrace — Device recovery and anti-theft monitoring with scoped SIM-change detection, a transparent logistic-regression risk-scoring engine, real-time Firestore-backed dashboard, and a DPDP Act 2023–compliant privacy policy.
@@ -14,13 +15,15 @@ I build real-world applications spanning device monitoring, real-time alerting, 
 
 🐛 Universal Code Debugger — AI-powered debugging assistant supporting 9 languages, with line-level error attribution and plain-language fix explanations.
 
+🚗 Used-Car Price Prediction (ProoV Case Study) — Trained a Random Forest model (R² 0.91, MAE ~£1,500) against a Linear Regression baseline (R² 0.78, MAE ~£2,800) on UK VW/Audi listings, identifying year, mileage, and engine size as key pricing drivers via EDA and correlation analysis. Scored 84/100, verified by ProoV.
+
 🛠️ Skills
 
 AI/ML: Python, Scikit-learn, TensorFlow, NLP, LLMs, RAG, Prompt Engineering, AI Agents, Supervised & Unsupervised Learning Frontend: HTML, CSS, JavaScript, React.js, Next.js, Responsive Web Design Backend: Firebase, Twilio, SendGrid, API Integration, Real-Time Applications Databases / Programming: SQL, Firebase, Python, JavaScript, Java Tools: Netlify, Vercel, Figma, Git/GitHub
 
 🎓 Certifications
 
-AI Foundations & Agents and Workflows (OpenAI Academy) · Introduction to Modern AI (Cisco Networking Academy) · Machine Learning with AI — Top Performer (Internshala) · Python & Intermediate Machine Learning (Kaggle)
+AI Foundations & Agents and Workflows (OpenAI Academy) · Introduction to Modern AI (Cisco Networking Academy) · Machine Learning with AI — Top Performer (Internshala) · Python & Intermediate Machine Learning (Kaggle) · Machine Learning for Automotive — 84/100 (ProoV)
 
 📬 Contact
 
