@@ -1,9 +1,8 @@
-👋 Hi, I'm Mohammed Owais Naj Muddin
+👋 Hi, I'm Mohammed Owais Najmuddin
 
 🧠 AI/ML • 💻 Full-Stack • 🎨 Frontend • ⚙️ Backend — B.Tech CSE (AI & Machine Learning) student building and shipping AI-powered and full-stack web products.
 
 I build real-world applications spanning device monitoring, real-time alerting, AI agent design, and financial decision tools — using Python, JavaScript, React, Next.js, Firebase, and machine learning. I try to keep every claim about a project scoped to what's actually implemented and verified, not what sounds impressive. 🎯
-
 
 🚀 Projects
 
@@ -24,6 +23,7 @@ AI/ML: Python, Scikit-learn, TensorFlow, NLP, LLMs, RAG, Prompt Engineering, AI 
 🎓 Certifications
 
 AI Foundations & Agents and Workflows (OpenAI Academy) · Introduction to Modern AI (Cisco Networking Academy) · Machine Learning with AI — Top Performer (Internshala) · Python & Intermediate Machine Learning (Kaggle) · Machine Learning for Automotive — 84/100 (ProoV)
+
 
 📬 Contact
 
